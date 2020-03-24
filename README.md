@@ -1,2 +1,2 @@
 # FirstRemoteRepo
-Kto jest najlepszy? :)
+Kto jest najlepszy? :) no ja
